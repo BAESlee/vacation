@@ -1,5 +1,5 @@
 void main(){
-
+    multiplication_table();
 }
 
 void multiplication_table(){

@@ -2,6 +2,8 @@ void main(){
     multiplication_table();
     int i=0;
     int j=2;
+
+
     return 0;
 }
 

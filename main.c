@@ -2,7 +2,7 @@ void main(){
     multiplication_table();
     int i=0;
     int j=2;
-
+    i=j;
 
     return 0;
 }
